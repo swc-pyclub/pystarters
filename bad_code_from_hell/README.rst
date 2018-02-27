@@ -24,3 +24,7 @@ To complete in any order (the order only matters if you run it on windows (see a
   * Fix the code to work with opencv3
   * Fix the style of the code following style guidelines practices as described in the eponymous document
 
+Running the code
+================
+
+To run the code, create a pycharm start point to the main.py file with the interpreter of your environment
