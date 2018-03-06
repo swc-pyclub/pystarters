@@ -11,6 +11,8 @@ COURSE DETAILS
 - Jesse Geerts
 - Francesca Greenstreet
 
+(and others, to be updated soon)
+
 ### DETAILED SCHEDULE
 
 - coming soon!
