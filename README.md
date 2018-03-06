@@ -10,8 +10,10 @@ COURSE DETAILS
 - George Dimitriadis
 - Jesse Geerts
 - Francesca Greenstreet
-
-(and others, to be updated soon)
+- Arne Meyer
+- Goncalo Lopez
+- Antonin Blot
+- Maxime Rio
 
 ### DETAILED SCHEDULE
 
