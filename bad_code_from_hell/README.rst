@@ -1,3 +1,9 @@
+Description and aims
+====================
+
+This is a large assignment of refactoring code. It is unlikely that you will be able to spot all of the (many) problems in this code when you first start the course and it should take a long time to complete. Your goal should be to apply the things you learn in the course to improving this code, and by the end of the course you should have one very nicely polished piece of code.
+
+
 Requirements
 ============
 
