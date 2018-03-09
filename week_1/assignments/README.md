@@ -1,7 +1,7 @@
 PYTHON AS A CALCULATOR
 =======================
 
-FOR A FULL LIST OF MATHEMATICAL OPERATIONS IN PYTHON SEE: https://www.tutorialspoint.com/python/python_basic_operators.html
+FOR A FULL LIST OF MATHEMATICAL OPERATIONS IN PYTHON SEE: https://www.tutorialspoint.com/python/python_basic_operators.htm
 This will be useful later, so only skip it if you know it already
 
 QUESTION 1
