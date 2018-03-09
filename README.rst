@@ -8,14 +8,14 @@ COURSE TAs and contacts
 _______________________
 
 - Antonin Blot
-- Arne Meyer
-- Charly Rousseau 
-- Francesca Greenstreet
 - George Dimitriadis
-- Goncalo Lopez
 - Jesse Geerts
-- Maxime Rio
+- Francesca Greenstreet
 - Stephen Lenzi
+- Goncalo Lopez
+- Arne Meyer
+- Maxime Rio
+- Charly Rousseau 
 
 
 Detailed schedule and weekly learning goals
