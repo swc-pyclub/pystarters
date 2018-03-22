@@ -200,6 +200,7 @@ QUESTION 6
 ----------
 
 Imagine a (quite stupid because the keys don't do much) hypothetical dictionary like the one below to store postsynaptic events that contains the name of the event as a key and the time start, time end and amplitude as a tuple.
+	
 	- Using dictionary comprehension, return a dictionary (of the same not very smart format) that contains only events with
 		 - an amplitude > 20
 		 - a duration of 1
