@@ -1,0 +1,7 @@
+stimulus_starts = 352400, 3050641, 5797363, 8503226, 11474947, 14262558
+stimulus_ends = 2897089, 5595331, 8342053, 11047916, 14019637, 16807248
+
+date = 2018-03-01
+path_to_data = ./spike_times.npy
+condition = light on
+mouse_id = CA24561_1
