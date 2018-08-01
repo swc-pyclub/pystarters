@@ -4,7 +4,7 @@ How to handle packages (for the uninitiated)
 Question 1: What is python and what does it do how does it work please help me
 ------------------------------------------------------------------------------
 
-Python per se is a language (understand a grammar). Most of the time when we talk about Python, we actually talk about cpython, the C implementation (i.e. the file that reads the code you write is written in C). When you type 
+Python per se is a language (or rather, a grammar). Most of the time when we talk about Python, we actually talk about cpython, the C implementation (i.e. the file that reads the code you write is written in C). When you type 
 
 .. code-block:: bash
 
