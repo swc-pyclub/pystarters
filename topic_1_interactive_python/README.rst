@@ -6,8 +6,6 @@ Question 1: What is python and what does it do how does it work please help me
 
 When you run python you are calling an executable file. The neat (and maybe confusing thing) is that this file first looks within a specific set of folders that are located in the same directory (before exploring other specified locations). This means you can have multiple instances of python installed on the same machine with no problems (or lots of problems depending on whether you are familiar with the contents of this tutorial or not).
 
-Schematic from Charly re: system file structures and the python equivalent side by side
-
 Whenever you make a call to python, you are in fact calling the full path to that python executable file. 
 
 i.e. /Users/something/wherever_python_is_installed/python.exe
