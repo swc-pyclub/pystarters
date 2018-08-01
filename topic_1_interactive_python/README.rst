@@ -4,11 +4,21 @@ How to handle packages (for the uninitiated)
 Question 1: What is python and what does it do how does it work please help me
 ------------------------------------------------------------------------------
 
-When you run python you are calling an executable file. The neat (and maybe confusing thing) is that this file first looks within a specific set of folders that are located in the same directory (before exploring other specified locations). This means you can have multiple instances of python installed on the same machine with no problems (or lots of problems depending on whether you are familiar with the contents of this tutorial or not).
+Python per se is a language (understand a grammar). Most of the time when we talk about Python, we actually talk about cpython, the C implementation (i.e. the file that reads the code you write is written in C). When you type 
 
-Whenever you make a call to python, you are in fact calling the full path to that python executable file. 
+.. code-block:: bash
 
-i.e. /Users/something/wherever_python_is_installed/python.exe
+  python my_project/my_test_file.py
+  
+on your computer, you are calling the python interpreter. This is a program written in the C language (see above) delivered as a compiled executable (e.g. python.exe on Windows). This program will read your source code (the .py file) and translate (i.e. interpret, hence the name) the instructions in it for the CPU which will execute them.
+
+If your program needs libraries (has import statements) to work, the python interpreter needs to locate and extract the instructions from these files (these are .py files too). The neat (and maybe confusing) thing is that the interpreter first looks within a specific set of folders that are located in the same directory (before exploring other specified locations). This means you can have multiple instances of python (i.e. the interpreter and its folder of libraries) installed on the same machine with no problems (or lots of problems depending on whether you are familiar with the contents of this tutorial or not).
+
+Whenever you make a call to python, you are in fact calling the full path to that python executable file implicitly. 
+
+.. code-block:: bash
+
+  /Users/somebody/wherever_python_is_installed/python.exe
 
 “But wait can’t I just type `python my_code.py` into terminal and it works”. This is true, but only because your operating system knows where to look for that specific python executable file. It does this using the system variable called PATH. What is in the PATH variable determines the order of locations in which your computer will look for anything with the name python (in this case). You can modify this if you want. Anaconda will modify it for you when you install it such that conda takes preference.
 
