@@ -10,7 +10,7 @@ Whenever you make a call to python, you are in fact calling the full path to tha
 
 i.e. /Users/something/wherever_python_is_installed/python.exe
 
-“But wait can’t I just type python my_code.py into terminal and it works”. This is true, but only because your operating system knows where to look for that specific python executable file. It does this using the system variable called PATH. What is in the PATH variable determines the order of locations in which your computer will look for anything with the name python (in this case). You can modify this if you want. Anaconda will modify it for you when you install it such that conda takes preference.
+“But wait can’t I just type `python my_code.py` into terminal and it works”. This is true, but only because your operating system knows where to look for that specific python executable file. It does this using the system variable called PATH. What is in the PATH variable determines the order of locations in which your computer will look for anything with the name python (in this case). You can modify this if you want. Anaconda will modify it for you when you install it such that conda takes preference.
 
 If you want to check which python/ipython/pip/conda you are using (from terminal) you can use the following command:
 
@@ -55,10 +55,10 @@ Fortunately, there are tools for this. They are there to make this as pain free 
 In the beginning we had to get our hands dirty: 
 ***********************************************
 
-Manually download the package you want to use
-Open a terminal
-cd into the folder, where you should see a file called setup.py
-Run the following command in terminal: 
+- Manually download the package you want to use
+- Open a terminal
+- cd into the folder, where you should see a file called setup.py
+- Run the following command in terminal: 
 
 .. code-block:: bash
   
