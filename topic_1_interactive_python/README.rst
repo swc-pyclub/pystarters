@@ -22,6 +22,12 @@ Whenever you make a call to python, you are in fact calling the full path to tha
 
 “But wait can’t I just type `python my_code.py` into terminal and it works”. This is true, but only because your operating system knows where to look for that specific python executable file. It does this using the system variable called PATH. What is in the PATH variable determines the order of locations in which your computer will look for anything with the name python (in this case). You can modify this if you want. Anaconda will modify it for you when you install it such that conda takes preference.
 
+If you want to see the order of the directories that your computer will check when you try to run python in terminal:
+
+.. code-block:: bash
+
+  echo $PATH
+  
 If you want to check which python/ipython/pip/conda you are using (from terminal) you can use the following command:
 
 .. code-block:: bash
@@ -30,12 +36,6 @@ If you want to check which python/ipython/pip/conda you are using (from terminal
   which ipython
   which pip
   which conda
-
-If you want to see the order of the directories that your computer will check when you try to run python in terminal:
-
-.. code-block:: bash
-
-  echo $PATH
 
 Question 2: What is a package?
 ------------------------------
