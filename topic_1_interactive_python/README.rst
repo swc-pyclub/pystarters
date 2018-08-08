@@ -142,7 +142,7 @@ Create an environment
 
   conda create -n my_super_cool_env
 
-You can then activate it (Windows users leave away ‘source’):
+You can then activate it (Windows users leave out ‘source’):
 
 .. code-block:: bash
 
