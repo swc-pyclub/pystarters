@@ -37,6 +37,8 @@ If you want to check which python/ipython/pip/conda you are using (from terminal
   which pip
   which conda
 
+If you use windows you need to write where instead of which but the same applies.
+
 Question 2: What is a package?
 ------------------------------
 
