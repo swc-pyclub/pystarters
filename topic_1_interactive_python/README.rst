@@ -100,7 +100,7 @@ However, pip is limited for a few reasons:
 - Pip doesn’t manage dependencies well
 - Pip doesn’t manage non-pure python very well (i.e. executables etc, necessary for nice platform agnostic stuff that maybe isn’t relevant yet)
 - No environments (kind of)
-- update: it has been brought to my attention that this is perhaps a bit harsh on pip, but for a full discusssion on pip/conda there is a lot of info here: https://stackoverflow.com/questions/20994716/what-is-the-difference-between-pip-and-conda
+- update: it has been brought to my attention that this is perhaps unfair on pip, particularly since it is possible to get by working in python only using pip. For a more detailed discusssion on pip/conda, have a look at: https://stackoverflow.com/questions/20994716/what-is-the-difference-between-pip-and-conda
 
 
 Fortunately conda came to cover up the holes and most people were fairly pleased with it. Conda is a cross-platform package and environment management system, and it is extremely useful for handling dependencies, non-python software, and environments.
