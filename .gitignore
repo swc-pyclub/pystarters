@@ -1,2 +1,3 @@
 *.py[co]
 .idea
+/topic_4_scientific_computing/numpy_part1.ipynb
